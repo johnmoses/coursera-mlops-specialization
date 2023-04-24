@@ -2,15 +2,16 @@
 # Machine Learning Engineering for Production
 
 ### My Scores
-- [Course 1: 100%](pics/MLOPs-intro.png)
-- [Course 2: 100%](pics/MLOPs-data.png)
-- [Course 3: 100%](pics/MLOPs-pipelines.png)
-- [Course 4: 98%](pics/MLOPs-deployment.png)
+- [Course 1 - Introduction to Machine Learning in Production: 100%](pics/MLOPs-intro.png)
+- [Course 2 - Machine Learning Data Life Cycle in Production: 100%](pics/MLOPs-data.png)
+- [Course 3 - Machine Learning Modelling Pipelines in Production: 100%](pics/MLOPs-pipelines.png)
+- [Course 4 - Welcome to Deploying Machine Learning Models in Production: 98%](pics/MLOPs-deployment.png)
 
 ## Course Structure
 Each course is spread out in weeks, and are made up of video slides, lab sessions, quizzes, assignments, related course materials, code and data
 
 ## Course 1: Introduction to Machine Learning in Production
+![](C1-Introduction-to-machine-learning-in-production/Week3/assets/iguanas1.png)
 
 ### Week 1
 #### Slides
@@ -33,6 +34,7 @@ Each course is spread out in weeks, and are made up of video slides, lab session
 - [Ungraded Lab: Data Labeling](C1-Introduction-to-machine-learning-in-production/Week3/C1W3_Data_Labeling_Ungraded_Lab.ipynb)
 
 ## Course 2: Machine Learning Data Life Cycle in Production
+![](C2-Machine-learning-data-life-cycle-in-production/Week3/img/mlmd_overview.png)
 
 ### Week 1
 #### Slides
@@ -68,6 +70,7 @@ Each course is spread out in weeks, and are made up of video slides, lab session
 - [Ungraded Lab: Feature Engineering with Images](C2-Machine-learning-data-life-cycle-in-production/Week4/C2_W4_Lab_3_Images.ipynb)
 
 ## Course 3: Machine Learning Modelling Pipelines in Production
+![](C3-Machine-learning-modelling-pipelines-in-production/img/feature_eng_pipeline.png)
 
 ### Week 1
 #### Slides
@@ -108,6 +111,7 @@ Each course is spread out in weeks, and are made up of video slides, lab session
 - [Ungraded lab: Permutation Feature Importance](C3-Machine-learning-modelling-pipelines-in-production/Week5/C3_W5_Lab_2_Permutation_Importance.ipynb)
 
 ## Course 4: Welcome to Deploying Machine Learning Models in Production
+![](C4-Welcome-to-deploying-machine-learning-models-in-production/Week2/C4_W2_Lab_2_Intro_to_Kubernetes/img/kubernetes.png)
 
 ### Week 1
 #### Slides
