@@ -1,6 +1,8 @@
 ![](mlops.jpeg)
 # Machine Learning Engineering for Production
 
+Become a Machine Learning expert. Put your machine learning knowledge to work, and expand your production engineering capabilities and begin to turn your ideas into realities.
+
 ### My Scores
 - [Course 1 - Introduction to Machine Learning in Production: 100%](pics/MLOPs-intro.png)
 - [Course 2 - Machine Learning Data Life Cycle in Production: 100%](pics/MLOPs-data.png)
